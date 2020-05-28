@@ -1,4 +1,4 @@
-# Tensorflow Tutorials by BDM Lab
+# Tensorflow 2 Tutorials by BDM Lab
 Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERICA)
 
 리뉴얼 + 재구성 + 내용추가 작업중
