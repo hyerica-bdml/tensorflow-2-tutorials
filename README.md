@@ -1,7 +1,9 @@
 # Tensorflow 2 Tutorials by BDM Lab
 Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERICA)
 
-리뉴얼 + 재구성 + 내용추가 작업중
+**Authors: 이재영, 이웅희**
+
+(리뉴얼 + 재구성 + 내용추가 작업중)
 
 ## Table of Contents
 1. Numpy
