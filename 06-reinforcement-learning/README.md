@@ -1,4 +1,4 @@
-#06-reinforcement-learning
+# 06-reinforcement-learning
 
 * DQN
 * REINFORCEMEN
