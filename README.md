@@ -17,7 +17,7 @@ Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERIC
     7. Scipy Basic (planned)
 2. Basic Models
     1. Tensorflow Basic
-    2. Fully Connected Networks (planned)
+    2. Fully Connected Networks (보완필요)
     3. Convolutional Neural Networks (planned)
     4. Recurrent Neural Networks (planned)
     5. Custom Models 1
