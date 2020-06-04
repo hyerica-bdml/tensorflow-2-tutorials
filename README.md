@@ -1,7 +1,7 @@
 # Tensorflow 2 Tutorials by BDM Lab
 Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERICA)
 
-**Authors: 이재영, [이웅희](https://github.com/WoongheeLee)**
+**Authors: [이재영(Lee, Jaeyoung)](https://github.com/wayexists02), [이웅희(Lee, Woonghee)](https://github.com/WoongheeLee)**
 
 (리뉴얼 + 재구성 + 내용추가 작업중)
 (This repo is in renewal)
