@@ -12,7 +12,7 @@ Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERIC
     2. Numpy Operations 1
     3. Numpy Operations 2
     4. Numpy Broadcasting
-    5. Linear Regression
+    5. Linear Regression (결론)
     6. Principal Component Analysis (코드추가완료, 설명추가필요)
     7. Scipy Basic (planned)
 2. Basic Models
