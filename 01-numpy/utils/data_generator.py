@@ -13,7 +13,14 @@ def generate_simple_house_price_dataset():
 
 def generate_simple_dataset():
     x = np.zeros((100, 5))
-    x[:50] = mvn.rvs(mean=[1, 1, 1, 1, 1], cov=np.eye(5)*0.05, size=(50,))
-    x[50:] = mvn.rvs(mean=[0, 0, 0, 0, 0], cov=np.eye(5)*0.05, size=(50,))
+    cov1 = np.eye(5)
+    cov2 = np.eye(5)
+    
+    for i in range(5):
+        cov1[i, i] = np.random.rand() * 10
+        cov2[i, i] = np.random.rand() * 5
+    
+    x[:50] = mvn.rvs(mean=[10, 10, 10, 10, 10], cov=cov1, size=(50,))
+    x[50:] = mvn.rvs(mean=[0, 0, 0, 0, 0], cov=cov2, size=(50,))
     
     return x
