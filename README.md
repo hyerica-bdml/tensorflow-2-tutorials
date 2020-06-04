@@ -1,7 +1,7 @@
 # Tensorflow 2 Tutorials by BDM Lab
 Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERICA)
 
-**Authors: 이재영, 이웅희**
+**Authors: [이재영(Lee, Jaeyoung)](https://github.com/wayexists02), [이웅희(Lee, Woonghee)](https://github.com/WoongheeLee)**
 
 (리뉴얼 + 재구성 + 내용추가 작업중)
 (This repo is in renewal)
@@ -12,12 +12,12 @@ Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERIC
     2. Numpy Operations 1
     3. Numpy Operations 2
     4. Numpy Broadcasting
-    5. Linear Regression
-    6. Principal Component Analysis (planned)
+    5. Linear Regression (결론추가필요)
+    6. Principal Component Analysis (코드추가완료, 설명추가필요)
     7. Scipy Basic (planned)
 2. Basic Models
     1. Tensorflow Basic
-    2. Fully Connected Networks (planned)
+    2. Fully Connected Networks (보완필요)
     3. Convolutional Neural Networks (planned)
     4. Recurrent Neural Networks (planned)
     5. Custom Models 1
@@ -26,7 +26,7 @@ Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERIC
     8. Auto Encoder (planned)
     9. Regularization for Auto Encoder (planned)
 3. Generative Models
-    1. Restrict Boltzmann Machine (planned)
+    1. Restrict Boltzmann Machine (코드추가완료, 설명추가필요)
     2. Variational Auto Encoder
     3. Generative Adversarial Networks (planned)
     4. Deep Convolution GAN (planned)
