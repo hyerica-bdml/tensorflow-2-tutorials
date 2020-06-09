@@ -23,7 +23,7 @@ Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERIC
     5. Custom Models 1
     6. Custom Models 2
     7. Style Transfer (planned)
-    8. Auto Encoder (planned)
+    8. Auto Encoder
     9. Regularization for Auto Encoder (planned)
 3. Generative Models
     1. Restrict Boltzmann Machine (코드추가완료, 설명추가필요)
