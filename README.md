@@ -18,7 +18,7 @@ Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERIC
 2. Basic Models
     1. Tensorflow Basic
     2. Fully Connected Networks (보완필요)
-    3. Convolutional Neural Networks (planned)
+    3. Convolutional Neural Networks (코드추가완료, 설명추가필요)
     4. Recurrent Neural Networks (planned)
     5. Custom Models 1
     6. Custom Models 2
