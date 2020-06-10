@@ -38,6 +38,7 @@ Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERIC
 5. Adversarial Attack & Defence (planned)
     1. FGSM
 6. Reinforcement Learning (planned)
+7. Visualization (planned)
 
 # Reference
 - Tensorflow 2.0 공식 홈페이지: https://www.tensorflow.org/tutorials, https://www.tensorflow.org/guide
