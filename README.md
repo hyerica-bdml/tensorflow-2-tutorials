@@ -28,7 +28,7 @@ Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERIC
 3. Generative Models
     1. Restrict Boltzmann Machine (코드추가완료, 설명추가필요)
     2. Variational Auto Encoder
-    3. Generative Adversarial Networks (코드추가완료, 설명추가필요)
+    3. Generative Adversarial Networks
     4. Deep Convolution GAN (코드추가완료, 설명미완성)
     5. Info GAN (planned)
     6. LS GAN (planned)
