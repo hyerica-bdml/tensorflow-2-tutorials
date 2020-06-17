@@ -6,17 +6,12 @@
 **/backup.ipynb
 02-basic-models/*.jpg
 
-01-numpy/06-Principal-Component-Analysis.ipynb
 01-numpy/07-Scipy-Basic.ipynb
 
-02-basic-models/03-Convolutional-Neural-Networks.ipynb
 02-basic-models/04-Recurrent-Neural-Networks.ipynb
-02-basic-models/08-Auto-Encoder.ipynb
 02-basic-models/09-Regularization-for-Auto-Encoder.ipynb
 
-03-generative-models/01-Restrict-Boltzmann-Machine.ipynb
 03-generative-models/03-Generative-Adversarial-Networks.ipynb
-03-generative-models/04-Deep-Convolution-GAN.ipynb
 03-generative-models/05-Info-GAN.ipynb
 03-generative-models/06-LS-GAN.ipynb
 03-generative-models/07-WGAN-GP.ipynb
