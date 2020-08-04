@@ -1,7 +1,7 @@
 # Tensorflow 2 Tutorials by BDM Lab
 Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERICA)
 
-**Authors: [이재영(Lee, Jaeyoung)](https://github.com/wayexists02), [이웅희(Lee, Woonghee)](https://github.com/WoongheeLee)**
+**Authors: [이재영(Lee, Jaeyoung)](https://github.com/wayexists02), [이웅희(Lee, Woonghee)](https://github.com/WoongheeLee), [김종우(Kim, Jongwoo)](https://github.com/kjwspecial)**
 
 (리뉴얼 + 재구성 + 내용추가 작업중)
 (This repo is in renewal)
@@ -27,8 +27,9 @@ Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERIC
     9. Style Transfer (planned)
     10. Auto Encoder
     11. Regularization for Auto Encoder (planned)
+    12. Attention Mechanism
 3. Generative Models
-    1. Restrict Boltzmann Machine (코드추가완료, 설명추가필요)
+    1. Restrict Boltzmann Machine
     2. Variational Auto Encoder
     3. Generative Adversarial Networks
     4. Deep Convolution GAN (코드추가완료, 설명미완성)
