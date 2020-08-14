@@ -1,5 +1,5 @@
 # Tensorflow 2 Tutorials by BDM Lab
-Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERICA)
+Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERICA) - 한국어
 
 **Authors: [이재영(Lee, Jaeyoung)](https://github.com/wayexists02), [이웅희(Lee, Woonghee)](https://github.com/WoongheeLee), [김종우(Kim, Jongwoo)](https://github.com/kjwspecial)**
 
@@ -42,6 +42,10 @@ Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERIC
     1. FGSM
 6. Reinforcement Learning (planned)
 7. Visualization (planned)
+
+## Contribution Manual
+
+- 최대한 line-by-line으로 설명하기
 
 # Reference
 - Tensorflow 2.0 공식 홈페이지: https://www.tensorflow.org/tutorials, https://www.tensorflow.org/guide
