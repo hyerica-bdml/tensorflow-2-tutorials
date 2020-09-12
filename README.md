@@ -38,6 +38,7 @@ Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERIC
     7. WGAN-GP (코드추가완료, 설명미완성)
 4. Advanced Techniques
     1. Train on Multi GPUs
+    2. Large Margin Loss
 5. Adversarial Attack & Defence (planned)
     1. FGSM
 6. Reinforcement Learning
