@@ -19,14 +19,14 @@ Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERIC
     1. Tensorflow Basic
     2. Fully Connected Networks (보완필요)
     3. Convolutional Neural Networks (코드추가완료, 설명미완성)
-    4. Recurrent Neural Networks (planned)
+    4. Recurrent Neural Networks (설명추가필요 및 개선필요)
     5. Custom Models 1 (설명교체필요)
     6. Custom Models 2 (설명교체필요)
     7. Convolutional Neural Networks with Custom Model (코드추가완료, 설명미완성)
     8. Recurrent Neural Networks with Custom Model (planned)
     9. Style Transfer (planned)
     10. Auto Encoder
-    11. Regularization for Auto Encoder (planned)
+    11. Regularization for Auto Encoder (설명추가필요)
     12. Attention Mechanism
 3. Generative Models
     1. Restrict Boltzmann Machine
@@ -40,7 +40,7 @@ Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERIC
     1. Train on Multi GPUs
 5. Adversarial Attack & Defence (planned)
     1. FGSM
-6. Reinforcement Learning (planned)
+6. Reinforcement Learning
 7. Visualization (planned)
 
 ## Contribution Manual
