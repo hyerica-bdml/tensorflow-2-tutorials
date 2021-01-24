@@ -64,3 +64,4 @@ def load_mnist_data():
     x_test = x_test.reshape(10000, 784)
     
     return x_train, y_train, x_test, y_test
+
