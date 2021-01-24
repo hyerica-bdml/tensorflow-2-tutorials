@@ -38,10 +38,17 @@ Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERIC
     7. WGAN-GP (코드추가완료, 설명미완성)
 4. Advanced Techniques
     1. Train on Multi GPUs
-5. Adversarial Attack & Defence (planned)
+5. Adversarial Attack & Defence
     1. FGSM
-6. Reinforcement Learning (planned)
-7. Visualization (planned)
+6. Reinforcement Learning
+7. Visualization
+    1. Matplotlib 기본
+    2. imageio 기초
+    3. GradCAM
+    4. GradCAM++
+    5. Integrated Gradient
+8. Continual Learning
+    1. ECW (Overcoming catastrophic forgetting in neural networks) (planned)
 
 ## Contribution Manual
 
