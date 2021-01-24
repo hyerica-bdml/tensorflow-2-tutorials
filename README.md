@@ -1,7 +1,7 @@
 # Tensorflow 2 Tutorials by BDM Lab
-Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERICA) - 한국어
+Tensorflow 2 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERICA) - 한국어
 
-**Authors: [이재영(Lee, Jaeyoung)](https://github.com/wayexists02), [이웅희(Lee, Woonghee)](https://github.com/WoongheeLee), [김종우(Kim, Jongwoo)](https://github.com/kjwspecial)**
+**Authors: [이재영(Lee, Jaeyoung)](https://github.com/wayexists02), [이웅희(Lee, Woonghee)](https://github.com/WoongheeLee), [김종우(Kim, Jongwoo)](https://github.com/kjwspecial) 외**
 
 (리뉴얼 + 재구성 + 내용추가 작업중)
 (This repo is in renewal)
@@ -53,6 +53,7 @@ Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERIC
 ## Contribution Manual
 
 - 최대한 line-by-line으로 설명하기
+- 수정이 필요한 설명은 언제든 pull request!
 
 # Reference
-- Tensorflow 2.0 공식 홈페이지: https://www.tensorflow.org/tutorials, https://www.tensorflow.org/guide
+- Tensorflow 공식 홈페이지: https://www.tensorflow.org/tutorials, https://www.tensorflow.org/guide
