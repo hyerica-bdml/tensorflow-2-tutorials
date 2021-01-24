@@ -1,7 +1,7 @@
 # Tensorflow 2 Tutorials by BDM Lab
-Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERICA) - 한국어
+Tensorflow 2 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERICA) - 한국어
 
-**Authors: [이재영(Lee, Jaeyoung)](https://github.com/wayexists02), [이웅희(Lee, Woonghee)](https://github.com/WoongheeLee), [김종우(Kim, Jongwoo)](https://github.com/kjwspecial)**
+**Authors: [이재영(Lee, Jaeyoung)](https://github.com/wayexists02), [이웅희(Lee, Woonghee)](https://github.com/WoongheeLee), [김종우(Kim, Jongwoo)](https://github.com/kjwspecial) 외**
 
 (리뉴얼 + 재구성 + 내용추가 작업중)
 (This repo is in renewal)
@@ -38,15 +38,22 @@ Tensorflow 2.0 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERIC
     7. WGAN-GP (코드추가완료, 설명미완성)
 4. Advanced Techniques
     1. Train on Multi GPUs
-    2. Large Margin Loss
-5. Adversarial Attack & Defence (planned)
+5. Adversarial Attack & Defence
     1. FGSM
 6. Reinforcement Learning
-7. Visualization (planned)
+7. Visualization
+    1. Matplotlib 기본
+    2. imageio 기초
+    3. GradCAM
+    4. GradCAM++
+    5. Integrated Gradient
+8. Continual Learning
+    1. ECW (Overcoming catastrophic forgetting in neural networks)
 
 ## Contribution Manual
 
 - 최대한 line-by-line으로 설명하기
+- 수정이 필요한 설명은 언제든 pull request!
 
 # Reference
-- Tensorflow 2.0 공식 홈페이지: https://www.tensorflow.org/tutorials, https://www.tensorflow.org/guide
+- Tensorflow 공식 홈페이지: https://www.tensorflow.org/tutorials, https://www.tensorflow.org/guide
