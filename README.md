@@ -33,9 +33,12 @@ Tensorflow 2 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERICA)
     2. Variational Auto Encoder
     3. Generative Adversarial Networks
     4. Deep Convolution GAN (코드추가완료, 설명미완성)
-    5. Info GAN (코드추가완료, 설명추가필요)
-    6. LS GAN (planned)
-    7. WGAN-GP (코드추가완료, 설명미완성)
+    5. Conditional GAN
+    6. Info GAN (코드추가완료, 설명추가필요)
+    7. LS GAN (planned)
+    8. WGAN-GP (코드추가완료, 설명미완성)
+    9. Progressive GAN
+    10. Mixture Density Network
 4. Advanced Techniques
     1. Train on Multi GPUs
 5. Adversarial Attack & Defence
