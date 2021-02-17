@@ -15,6 +15,7 @@ Tensorflow 2 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERICA)
     5. Linear Regression
     6. Principal Component Analysis
     7. Scipy Basic (planned)
+    8. Logistic regression
 2. Basic Models
     1. Tensorflow Basic
     2. Fully Connected Networks (보완필요)
