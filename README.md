@@ -44,6 +44,7 @@ Tensorflow 2 튜토리얼 by BDM Lab (Bigdata Mining Lab in Hanyang Univ. ERICA)
     1. Train on Multi GPUs
 5. Adversarial Attack & Defence
     1. FGSM
+    2. DeepFool
 6. Reinforcement Learning
 7. Visualization
     1. Matplotlib 기본
